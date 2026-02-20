@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Sergio Ruiz 👋
 
-<!--
-**SergioRuiz88/SergioRuiz88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional apasionado por los datos y el Business Intelligence. Me enfoco en transformar datos complejos en información clara y accionable para facilitar la toma de decisiones estratégicas en los negocios.
 
-Here are some ideas to get you started:
+### 🛠️ Mis Habilidades Técnicas
+* **Bases de Datos:** SQL (Extracción, limpieza y modelado de datos)
+* **Visualización:** Power BI / Tableau (Creación de dashboards interactivos)
+* **Herramientas de Análisis:** Excel avanzado 
+* **Otras herramientas:** [Añade aquí Python, R, o cualquier otra que manejes]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mi Portafolio
+Aquí abajo encontrarás los repositorios con mis proyectos de BI, donde aplico metodologías reales de negocio, desde la consulta SQL hasta el dashboard final.
+
+### 📫 Cómo contactarme
+* **LinkedIn:** https://www.linkedin.com/in/sergioruizcat
+* **Email:** sergioruiz@ug.uchile.cl
